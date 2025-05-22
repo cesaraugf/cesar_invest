@@ -49,7 +49,7 @@ Esta ferramenta foi criada pensando em **investidores iniciantes** que desejam e
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Todos os direitos reservados à DIO.
 
 ## 🙋‍♀️ Contribuições
 
